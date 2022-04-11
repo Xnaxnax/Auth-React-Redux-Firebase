@@ -1,0 +1,23 @@
+.form-wrapper div {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-input {
+    min-width: 300px;
+    margin-bottom: 20px;
+    padding: 10px 50px 10px 5px;
+    border-radius: 4px;
+    border: 1px solid #000;
+    font-size: 16px;
+}
+
+.form-button {
+    min-width: 300px;
+    border-radius: 5px;
+    border: transparent;
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #42aaff;
+}
